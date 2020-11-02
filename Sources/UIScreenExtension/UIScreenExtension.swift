@@ -78,6 +78,8 @@ public extension UIScreen {
         case "iPad8,12": fallthrough // iPad Pro (12.9 inch, 4th generation)
         case "iPad11,3": fallthrough // iPad Pro 12.9 inch 4th Gen (WiFi+Cellular)
         case "iPad11,4": fallthrough // iPad Air (3rd generation)
+        case "iPad11,6": fallthrough // iPad 8th Gen (WiFi)
+        case "iPad11,7": fallthrough // iPad 8th Gen (WiFi+Cellular)
         case "iPad13,1": fallthrough // iPad air 4th Gen (WiFi)
         case "iPad13,2": // iPad air 4th Gen (WiFi+Celular)
             return 264
